@@ -4,6 +4,8 @@ Begin by cloning the Beginners Sandbox repo.
 
 Once inside this folder, create a folder with your name, and inside, create a file Tutorial.txt
 
+NOTE: You will be cloning whatever every other new person has uploaded to this repo as well. If you end up downloading for an extended period of time, someone most likely pushed a SQL dump or something pointless here. In the hopefully impossible situation where this might occur, remember that this is a shared repo by all of you and all of us.
+
 Put whatever you want inside that text file, as long as you're not being a douche.
 
 Now add the folder (and the file by extension) to the repo with git add.
