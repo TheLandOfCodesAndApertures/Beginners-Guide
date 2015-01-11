@@ -12,7 +12,7 @@ Now, use git clone in order to clone this repo to your computer. If using the co
 
 $ git clone https://github.com/TheLandOfCodesAndApertures/Beginners-Guide.git
 
-(The clone url is on the bottom right of the page
+(The clone url is on the bottom right of the repo page)
 
 After you have cloned it, try to git pull from inside the folder. If this fails, notify me.
 
