@@ -1,0 +1,7 @@
+OK, OK, this isn't really a tutorial as much as it is a pile of notes.
+
+Some notes:
+-No files bigger than 20 MB. There is no reason why a function library would be more than 20 MB large and unless you have a super duper high res image of a cutin, I see no reason why this should occur. 
+-Do not merge, fork, rebase, or rm in the Beginner guide or the Beginner sandbox. All kinds of unwanted things will happen, and unless you know what you are doing, you could potentially cause a mild to severe headache for others
+
+And of course, if you haven't realized yet, git is very complicated but at the same time very powerful. Make sure you are professional and courteous. Thank you and enjoy Github!

@@ -1,0 +1,17 @@
+Now that you have successfully cloned and pulled your first repo (well... you probably pulled nothing since there were most likely no new files to actually pull...), we will begin learning to add and push files.
+
+Begin by cloning the Beginners Sandbox repo. 
+
+Once inside this folder, create a folder with your name, and inside, create a file Tutorial.txt
+
+Put whatever you want inside that text file, as long as you're not being a douche.
+
+Now add the folder (and the file by extension) to the repo with git add.
+
+If it errors, please google or ask me how to fix it
+
+After successfully adding, you will want to commit. A commit logs all changes to files - only insertions and deletions are taken into account in a commit. If using the command line, git commit -m "Message Here". If using the GUI, they may have a place to add a message. ALWAYS leave a message when committing, preferably something helpful and related to the commit. After this, git push.
+
+If pushing fails, then once again, google or ask me how to fix it.
+
+After this, we will move on to the third tutorial.

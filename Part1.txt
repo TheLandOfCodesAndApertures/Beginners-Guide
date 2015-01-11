@@ -1,0 +1,13 @@
+So, welcome to Github and the Land of Codes and Apertures! Starting off, you will first need to learn to clone this repository onto your local computer.
+
+You may find this link helpful: http://gitref.org/creating/
+
+Anyways, I suggest creating a directory specifically for Github stuff, and always using that same directory. 
+
+To install GUI based git, please check out this link: http://git-scm.com/downloads
+
+Now, use git clone in order to clone this repo to your computer. 
+
+After you have cloned it, try to git pull. If this fails, notify me.
+
+After this, please begin the next part!
