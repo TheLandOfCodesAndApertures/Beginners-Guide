@@ -6,9 +6,11 @@ Anyways, I suggest creating a directory specifically for Github stuff, and alway
 
 To install GUI based git, please check out this link: http://git-scm.com/downloads
 
+Note that all command line code will be prefixed by a $ but you should NOT include the $ when typing.
+
 Now, use git clone in order to clone this repo to your computer. If using the command line, use the following:
 
-git clone https://github.com/TheLandOfCodesAndApertures/Beginners-Guide.git
+$ git clone https://github.com/TheLandOfCodesAndApertures/Beginners-Guide.git
 
 (The clone url is on the bottom right of the page
 

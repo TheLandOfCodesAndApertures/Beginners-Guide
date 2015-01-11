@@ -10,9 +10,26 @@ Put whatever you want inside that text file, as long as you're not being a douch
 
 Now add the folder (and the file by extension) to the repo with git add.
 
+You can 
+$ git add * 
+to add all files in the folder or use 
+$ git add filename.ext
+to add the specific file only. 
+
 If it errors, please google or ask me how to fix it
 
-After successfully adding, you will want to commit. A commit logs all changes to files - only insertions and deletions are taken into account in a commit. If using the command line, git commit -m "Message Here". If using the GUI, they may have a place to add a message. ALWAYS leave a message when committing, preferably something helpful and related to the commit. After this, git push.
+You can use 
+$ git status
+to see which files have been added/changed/removed. Make sure that you only have what you want to upload before you commit.
+
+After successfully adding, you will want to commit. A commit logs all changes to files - only insertions and deletions are taken into account in a commit. 
+
+If using the command line, 
+$ git commit -m "Message Here"
+. If using the GUI, they may have a place to add a message. ALWAYS leave a message when committing, preferably something helpful and related to the commit. After this... 
+$ git push
+
+Pushing to github will send all of your changes from your computer to the main repo on Github.
 
 If pushing fails, then once again, google or ask me how to fix it.
 
